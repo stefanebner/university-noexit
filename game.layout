@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="release" />
+	<File name="src\GameManager.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="391" topLine="1" />
+	</File>
+	<File name="src\GameManager.h" open="0" top="0" tabpos="2">
+		<Cursor position="1712" topLine="40" />
+	</File>
+	<File name="src\HighScoreManager.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="1804" topLine="67" />
+	</File>
+	<File name="src\HighScoreManager.h" open="0" top="0" tabpos="4">
+		<Cursor position="1002" topLine="15" />
+	</File>
+	<File name="src\Maze.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="535" topLine="30" />
+	</File>
+	<File name="src\Maze.h" open="0" top="0" tabpos="7">
+		<Cursor position="320" topLine="36" />
+	</File>
+	<File name="src\NoExit.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2755" topLine="90" />
+	</File>
+	<File name="src\NoExit.h" open="0" top="0" tabpos="6">
+		<Cursor position="365" topLine="0" />
+	</File>
+	<File name="src\Variables.h" open="1" top="0" tabpos="1">
+		<Cursor position="39" topLine="0" />
+	</File>
+	<File name="src\main.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="359" topLine="21" />
+	</File>
+	<File name="src\ofTrueTypeFont.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="259" topLine="363" />
+	</File>
+	<File name="src\ofTrueTypeFont.h" open="0" top="0" tabpos="0">
+		<Cursor position="236" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
